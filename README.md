@@ -9,7 +9,7 @@ Welcome! This is a clean, ready-to-use list of **19,535 restaurants companies ac
 | File | Rows | Format | Link |
 |---|---|---|---|
 | **Free sample** | 500 rows | CSV | [companies_sample500.csv](companies_sample500.csv) |
-| **Full dataset** | **19,535 rows** | CSV + JSON | Buy on Gumroad -- $2 per 10,000 records ($4 total) -> **[PASTE GUMROAD LINK HERE]** |
+| **Full dataset** | **19,535 rows** | CSV + JSON | Buy on Gumroad -- $2 per 10,000 records ($4 total) -> **[GUMROAD-PENDING-QUOTA]** |
 
 > Start with the [free 500-row sample](companies_sample500.csv) -- same columns, same format as the full file. If it fits your workflow, grab the complete 19,535-row dataset on Gumroad.
 
@@ -48,7 +48,7 @@ This repo contains a **free 500-row sample** of restaurants australia companies.
 - **19,535 australia restaurants companies**, same 10 columns as the sample
 - Priced at **$2 per 10,000 records = $4 total**
 - Delivered as `companies.csv` (+ JSON version) immediately after purchase
-- Buy here -> **[PASTE GUMROAD LINK HERE]**
+- Buy here -> **[GUMROAD-PENDING-QUOTA]**
 
 ## Use cases
 
